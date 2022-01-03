@@ -1,0 +1,65 @@
+<DOCKTYPE html>
+<html>
+	<head>
+		<title>CLass-01</title>
+		</head>
+		<body>
+		
+		
+		<a href="https://www.facebook.com/" target="_blank">Facebook</a>
+		
+		
+				<!-- HEading HTML Code -->
+				<h1>Heading One</h1>
+				<h2>HEading TWo</h2>
+				<h3>HEading Three</h3>
+				<h4>HEading Four</h4>
+				<h5>HEading Five</h5>
+				<h6>HEading Six</h6>
+				
+				
+				<hr width="50%">
+				
+				
+				<p>paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragrap paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragrap paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragrap paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragrap
+				</P>
+				
+				
+				<i>this is italic.</i>
+				<u>this is unline.</u>
+				
+				
+				<p>H<sub>2</sub>o </p>
+				<p>a<sup>2</a>     </p>
+				
+				
+				<address> 9.No Kapasgola Road(4th Floor),<br>
+								CHAWK bAZAR, tELPPPOTTI MORE,<br>
+								Chattogram 4203,Bangladesh
+								
+					
+					
+				</address>
+				
+				<pre>					Twinkle, twinkle, little star,
+					How I wonder what you are.
+					Up above the world so high,
+					Like a diamond in the sky.
+
+					When the blazing sun is gone,
+					When he nothing shines upon,
+					Then you show your little light,
+					Twinkle, twinkle, all the night.
+					</pre>
+					
+					
+					<img src="img/counselling.png">
+					
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d939811.8263933605!2d90.14144193189938!3d23.055330342956562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad274609dda25f%3A0xd59761fea5a91d3b!2sCreative%20IT%20Institute!5e0!3m2!1sen!2sbd!4v1641182080081!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+					
+					
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/DfxiG3lYBVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					
+					
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/_SttUStrLhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					
